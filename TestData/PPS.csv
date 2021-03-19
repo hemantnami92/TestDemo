@@ -1,0 +1,2 @@
+login,url,Loginusername,Loginpassword
+http://192.168.0.155:8001/auth/realms/sfcs/protocol/openid-connect/auth?client_id=mdm-front-end&redirect_uri=http%3A%2F%2F192.168.0.34%3A4201%2F&state=789f72fa-843e-4e97-88fb-06c6371aad30&response_mode=fragment&response_type=code&scope=openid&nonce=be2a5d9f-28ea-4b65-87b6-94c0f1a72189,http://192.168.0.34:4203/,hemanth,hemanth123
